@@ -9,6 +9,9 @@ Looking forward to see you at the SHC 2021.
 
 ### Write-Up collection
 This repository contains a collection of all the write-ups submitted by me (mantix101). There have been other write-up collections posted by other people, who might have better solutions in comparison to mine. \
-Definitely check out these other write-ups!
+Definitely check out these other write-ups! \
+Write-Up collection by TheJan: https://github.com/dev-jan/swiss-hacking-challenge-2021 \
+DH-MitM Solutions: https://www.spclr.ch/dh-mitm \
+The Lottery Solution by TheBadGod: https://gist.github.com/TheBadGod/17030dad40b2cf50625307f3334660cd
 
 The collections are bundled by release date. Each bundle contains around 3 or 4 Challenges. 
